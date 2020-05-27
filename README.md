@@ -1,7 +1,7 @@
-#Bot<br>
+# Name <br>
 Bot Facebook
 
-#Cara pengistalan<br>
+# Install Modul<br>
 $ pkg install git<br>
 $ pkg install nano<br>
 $ pkg install python<br>
