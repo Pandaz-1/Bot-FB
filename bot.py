@@ -4,6 +4,8 @@ Aurhor: Pandas ID
 Date: 19-05-2020
 Note: Sengaja saya tidak Compile karna saya yakin di luar sana
 masih ada orang yang mau belajar.Ingat!!!recode tidak akan membuat mu menjadi hebat
+Kalau kalian mau mengupload program ini ke github kalian tolong jangan lupa cantumkan nama saya
+biar bangga juga gitu:v karna seburuk apapun karya orang itu pun harus dihargai
 '''
 
 #Import modul
