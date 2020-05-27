@@ -1,3 +1,12 @@
+'''
+Name: Bot Facebook
+Aurhor: Pandas ID
+Date: 19-05-2020
+Note: Sengaja saya tidak Compile karna saya yakin di luar sana
+masih ada orang yang mau belajar.Ingat!!!recode tidak akan membuat mu menjadi hebat
+'''
+
+
 #Import modul
 from bs4 import BeautifulSoup as bs
 from requests import Session
@@ -84,12 +93,14 @@ class Main:
     def info(self):
         print('                  [ Info ]')
         print('        ----------------------------')
-        print('          > Author : Pandas ID')
+        print('          > Author : -Pandas ID')
         print('          > Thaks to : -Allah Swt')
         print('                       -Karjok Pangesty')
-        print('                       -Internet(Beserta antek" nya)')
-        print('          > Cara penggunaan : Silahkan buat file cookie dengan')
-        print('                              ekstansi .log')
+        print('                       -Internet(Beserta antek" nya:v)')
+        print('          > Blog : -https://pandasid.blogspot.com')
+        print('          > Sosial : -Wa --> 082250223147')
+        print('                     -FB --> Pandas ID')
+        print('                     -Telegram --> https://t.me/PandasID')
         print('')
         input('        [ Kembali ]')
         self.menu()
